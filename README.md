@@ -22,3 +22,6 @@ AI-powered platform to analyze PDFs and log files for:
 ```bash
 npm install
 node app.js
+
+🎯 Use Case
+Helps organizations detect sensitive information leaks in documents and logs, improving data security and compliance.
