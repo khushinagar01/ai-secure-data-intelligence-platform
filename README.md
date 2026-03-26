@@ -17,11 +17,11 @@ This platform automates the process by extracting text, detecting sensitive data
 
 ## Features
 
-📄 Upload PDF / Log Files – easily select and upload documents
-🧠 Auto Text Extraction – extracts text content from uploaded files
-🔍 Sensitive Data Detection – detects emails, passwords, API keys
-⚠️ Risk Scoring System – assigns a risk score based on detected sensitive elements
-📊 Clean UI Output – presents results in a user-friendly interface
+📄 Upload PDF / Log Files
+🧠 Auto Text Extraction
+🔍 Sensitive Data Detection
+⚠️ Risk Scoring System
+📊 Clean UI Output
 
 ## Approach / Design
 
@@ -66,8 +66,8 @@ Open http://localhost:3000
 
 ## Screenshots
 
-<img width="1000" height="800" alt="Screenshot 2026-03-26 121917" src="https://github.com/user-attachments/assets/82f9eaaa-d824-4578-bda3-fab22d96bd6e" />
+<img width="700" height="800" alt="Screenshot 2026-03-26 121917" src="https://github.com/user-attachments/assets/82f9eaaa-d824-4578-bda3-fab22d96bd6e" />
 
-<img width="1100" height="800" alt="Screenshot 2026-03-26 122117" src="https://github.com/user-attachments/assets/e2792508-9c9c-443b-b3cf-6a1e7a9d13ec" />
+<img width="700" height="800" alt="Screenshot 2026-03-26 122117" src="https://github.com/user-attachments/assets/e2792508-9c9c-443b-b3cf-6a1e7a9d13ec" />
 
 
