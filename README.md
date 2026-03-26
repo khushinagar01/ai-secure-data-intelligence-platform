@@ -66,8 +66,8 @@ Open http://localhost:3000
 
 ## Screenshots
 
-<img width="1404" height="928" alt="Screenshot 2026-03-26 121917" src="https://github.com/user-attachments/assets/82f9eaaa-d824-4578-bda3-fab22d96bd6e" />
+<img width="1000" height="800" alt="Screenshot 2026-03-26 121917" src="https://github.com/user-attachments/assets/82f9eaaa-d824-4578-bda3-fab22d96bd6e" />
 
-<img width="1617" height="969" alt="Screenshot 2026-03-26 122117" src="https://github.com/user-attachments/assets/e2792508-9c9c-443b-b3cf-6a1e7a9d13ec" />
+<img width="1100" height="800" alt="Screenshot 2026-03-26 122117" src="https://github.com/user-attachments/assets/e2792508-9c9c-443b-b3cf-6a1e7a9d13ec" />
 
 
